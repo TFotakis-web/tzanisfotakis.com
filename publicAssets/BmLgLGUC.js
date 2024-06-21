@@ -1,0 +1,1 @@
+import{_ as e,c as o,o as t,a as s}from"./DP00vZS3.js";const c={},n=s("h1",null,"Stopwatch",-1),a=s("small",null,"This is a work in progress.",-1),r=[n,a];function _(l,i){return t(),o("div",null,r)}const h=e(c,[["render",_]]);export{h as default};

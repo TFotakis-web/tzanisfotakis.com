@@ -1,0 +1,1 @@
+import{_ as s,c as o,o as t,a as e}from"./DP00vZS3.js";const c={},n=e("h1",null,"Timer",-1),r=e("small",null,"This is a work in progress.",-1),_=[n,r];function a(i,l){return t(),o("div",null,_)}const m=s(c,[["render",a]]);export{m as default};
